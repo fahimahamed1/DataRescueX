@@ -1,0 +1,3 @@
+psutil
+Pillow
+python-magic-bin
